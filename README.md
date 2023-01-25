@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dio Azril</h1>
-<h3 align="justify">I am a passionate developer with a focus on Flutter and Data Science. On my GitHub, you can find various projects I have worked on, including mobile applications built with Flutter and data science projects utilizing Python. I am always seeking to learn and improve my skills in these areas and welcome any opportunities to collaborate or discuss with others in the field. Thank you for taking the time to view my profile</h3>
+<h3 align="justify">I am a passionate developer with a focus on Flutter and Data Science. On my GitHub, you can find various projects I have worked on, including mobile applications built with Flutter and Data Science projects utilizing Python. I am always seeking to learn and improve my skills in these areas and welcome any opportunities to collaborate or discuss with others in the field. Thank you for taking the time to view my profile.</h3>
 
 - 🌱 I’m currently learning **[Flutter Framework](https://flutter.dev/) & [Python](https://www.python.org/)**
 
